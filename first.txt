@@ -6,3 +6,6 @@ git rm
 git status
 git diff
 git merge
+コンフリクト
+conflict
+pull request
